@@ -168,26 +168,26 @@ plt.axis('off')
 ~~~
 ##  Output
 ## Image Original 
-<img width="667" height="408" alt="image" src="https://github.com/user-attachments/assets/97f8af34-9064-4752-a822-2cd86f928711" />
+<img width="672" height="398" alt="image" src="https://github.com/user-attachments/assets/487febdc-2653-4874-882f-c0ac74ac45fd" />
 
 ### Image Translation
-<img width="632" height="406" alt="image" src="https://github.com/user-attachments/assets/36667066-4940-4878-a678-51b2caa32add" />
+<img width="673" height="397" alt="image" src="https://github.com/user-attachments/assets/77742bb8-d27d-489b-9450-03771231bc77" />
 
 ### Image Scaling
-<img width="665" height="198" alt="image" src="https://github.com/user-attachments/assets/b632bfbb-7d66-4596-8fb7-c2ed4cb297a7" />
+<img width="676" height="197" alt="image" src="https://github.com/user-attachments/assets/7f628295-df3f-444b-91aa-7560bbff601f" />
 
 ### Image Shearing
-<img width="640" height="385" alt="image" src="https://github.com/user-attachments/assets/845b11d0-3bc8-4d89-8c79-6c85e29826a2" />
+<img width="666" height="394" alt="image" src="https://github.com/user-attachments/assets/f7185c9a-099d-4666-bf96-1c9f68c8efb1" />
 
 ### Image Reflection
-<img width="658" height="387" alt="image" src="https://github.com/user-attachments/assets/701d7c87-e5df-4e51-925a-5721e5512875" />
+<img width="662" height="397" alt="image" src="https://github.com/user-attachments/assets/1e6ad6dc-6cb4-40b0-8be3-ebcbafd1aa3b" />
 
 
 ### Image Rotation
-<img width="676" height="380" alt="image" src="https://github.com/user-attachments/assets/6718d4a3-805d-45a2-868e-b686ad740675" />
+<img width="675" height="405" alt="image" src="https://github.com/user-attachments/assets/ad10b680-c17b-4ecc-a173-c3fc1e8f9215" />
 
 ## Image cropped 
-<img width="660" height="507" alt="image" src="https://github.com/user-attachments/assets/b4138721-52b6-4663-b719-067107f65067" />
+<img width="650" height="520" alt="image" src="https://github.com/user-attachments/assets/ada88448-5247-4095-b81c-240265cbb305" />
 
 
 ##  Result
